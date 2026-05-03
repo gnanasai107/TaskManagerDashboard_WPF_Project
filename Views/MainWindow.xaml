@@ -48,9 +48,7 @@
             </Grid.ColumnDefinitions>
 
             <Button Grid.Column="0" Content="Add Task" Height="30" Width="180" Command="{Binding AddTaskCommand}"/>
-
             <Button Grid.Column="1" Content="Mark Complete" Height="30" Width="180" Command="{Binding MarkCompleteCommand}"/>
-
             <Button Grid.Column="2" Content="Delete Task" Height="30" Width="180" Command="{Binding DeleteTaskCommand}"/>
         </Grid>
         
