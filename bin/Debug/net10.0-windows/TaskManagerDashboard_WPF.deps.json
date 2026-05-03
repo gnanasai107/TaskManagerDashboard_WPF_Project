@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "TaskManagerDashboard_WPF/1.0.0": {
+        "runtime": {
+          "TaskManagerDashboard_WPF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaskManagerDashboard_WPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
